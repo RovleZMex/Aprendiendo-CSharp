@@ -1,2 +1,2 @@
 # Aprendiendo-CSharp
-Una colección de documentación de fácil aprendizaje junto con ejercicios para que puedas aplicar lo aprendido
+En este repositorio vas a encontrar información suficiente para tener bases sobre el lenguaje de programación C#
